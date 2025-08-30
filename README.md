@@ -1,6 +1,23 @@
 # Building a fully functional, responsive calculator
 
-## 💻 Objectives
+A modern and **responsive calculator web app** built using **HTML, CSS, and JavaScript**.  
+It provides a clean interface, smooth interactivity, and adapts seamlessly across devices.
+
+---
+
+## Project Structure
+
+```bash
+SCT_WD_2/
+│── index.html    # Calculator UI layout
+│── style.css     # Styling and responsiveness
+│── script.js     # JavaScript logic for calculations
+└── README.md     # Documentation
+```
+
+---
+
+## Objectives
 
 - Design and develop a functional calculator with a clean and intuitive interface.
 - Implement responsive design for mobile, tablet, and desktop compatibility.
@@ -9,7 +26,7 @@
 
 ---
 
-## 🛠 Tech Stack Used
+## Tech Stack Used
 
 - HTML5 – Structure & Layout
 - CSS3 – Styling, Gradient Theme, Responsiveness
@@ -17,7 +34,7 @@
 
 ---
 
-## ✨ Key Features Implemented
+## Key Features Implemented
 
 - Responsive design that adapts to various screen sizes.
 - Interactive buttons with hover and active effects.
@@ -25,4 +42,3 @@
 - Clean, modular code with HTML, CSS, and JS separated.
 
 ---
-
